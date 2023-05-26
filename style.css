@@ -1,0 +1,40 @@
+.wantedContainer{
+    border: dotted red;
+    height: 550px;
+    background-color: yellow;
+    margin: 20px;
+
+}
+.wantedTitle{
+    font-size: 35px;
+    text-align: center;
+    
+}
+.wantedPicture{
+    width: 55%;
+    margin-left: 22%;
+    
+
+}
+.descriptionText{
+    border: solid black;
+    height: 70px;
+    margin: 3%;
+    margin-top: 10%;
+
+}
+.payolaContainer{
+    border: solid black;
+    height: 60px;
+    
+}
+.payola0ne{
+    color: black;
+    font-size: 25px;
+    
+
+}
+.payolaTwo{
+    color: blue;
+    font-size: 25px;
+}
